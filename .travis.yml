@@ -32,6 +32,7 @@ cache:
   - $HOME/.rvm
   - $NVM_DIR
   - $HOME/CACHE
+  - $HOME/CACHE
 dist: trusty
 env:
 - MODULES=storm-client
